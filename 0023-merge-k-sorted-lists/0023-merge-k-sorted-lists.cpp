@@ -35,8 +35,6 @@ public:
         return dummy->next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        // if(lists == NULL || lists.size() == 0)
-        //     return NULL;
         ListNode* head = NULL;
         for(int i=0; i<lists.size(); i++)
         {
