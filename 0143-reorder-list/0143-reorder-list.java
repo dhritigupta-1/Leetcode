@@ -10,6 +10,8 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
+        if(head == null || head.next == null || head.next.next == null)
+            return;
         //Getting mid point and end point.
         ListNode slow = head;
         ListNode fast = head;
