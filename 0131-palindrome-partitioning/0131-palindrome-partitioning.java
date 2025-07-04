@@ -28,9 +28,8 @@ class Solution {
         }
     }
     public List<List<String>> partition(String s) {
-        List<String> temp = new ArrayList<>();
         List<List<String>> res = new ArrayList<>();
-        Func(s, temp, res, 0);
+        Func(s, new ArrayList<>(), res, 0);
         return res;
     }
 }
