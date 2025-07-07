@@ -21,8 +21,7 @@ public:
         helper(ans, root->right);
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        vector<int> ans1;
-        vector<int> ans2;
+        vector<int> ans1, ans2;
         helper(ans1, root1);
         helper(ans2, root2);
         if(ans1 == ans2)
