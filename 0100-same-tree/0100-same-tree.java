@@ -14,24 +14,10 @@
  * }
  */
 class Solution {
-    void helper(List<Integer> ans, TreeNode root)
-    {
-        if(root == null)
-        {
-            ans.add(Integer.MAX_VALUE);
-            return;
-        }
-        ans.add(root.val);
-        helper(ans, root.left);
-        helper(ans, root.right);
-    }
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        List<Integer> ans1 = new ArrayList<>();
-        List<Integer> ans2 = new ArrayList<>();
-        helper(ans1, p);
-        helper(ans2, q);
-        if(ans1.equals(ans2))
-            return true;
-        return false;
+        if(p == null && q == null) return true;
+        if(p == null || q == null) return false;
+        if(p.val != q.val) return false;
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
