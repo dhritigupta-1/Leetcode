@@ -18,13 +18,13 @@ class Solution {
     {
         if(root == null)
             return;
-        sum.add(root.val);
+        List<Integer> a = new ArrayList<>(sum);
+        a.add(root.val);
         targetSum -= root.val;
         if(root.left == null && root.right == null && targetSum == 0)
-            ans.add(new ArrayList<>(sum));
-        helper(sum, ans, root.left, targetSum);
-        helper(sum, ans, root.right, targetSum);
-        sum.remove(sum.size() - 1);
+            ans.add(new ArrayList<>(a));
+        helper(a, ans, root.left, targetSum);
+        helper(a, ans, root.right, targetSum);
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans = new ArrayList<>();
