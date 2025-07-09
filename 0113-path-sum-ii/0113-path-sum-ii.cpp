@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void helper(vector<int>& sum, vector<vector<int>>& ans, TreeNode* root, int targetSum)
+    void helper(vector<int> sum, vector<vector<int>>& ans, TreeNode* root, int targetSum)
     {
         if(root == NULL)
             return;
@@ -20,10 +20,10 @@ public:
         if(root->left==NULL && root->right == NULL && targetSum == 0)
         {
             ans.push_back(sum);
+            return;
         }
         helper(sum, ans, root->left, targetSum);
         helper(sum, ans, root->right, targetSum);
-        sum.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> ans;
