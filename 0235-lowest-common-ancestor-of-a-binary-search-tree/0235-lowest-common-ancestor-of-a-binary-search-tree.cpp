@@ -12,8 +12,6 @@ class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         if(!root) return NULL;
-        if(root == p || root == q)
-            return root;
         while(root)
         {
             if (root->val > p->val && root->val > q->val)
