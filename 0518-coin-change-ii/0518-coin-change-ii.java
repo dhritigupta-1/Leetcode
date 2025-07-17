@@ -3,7 +3,6 @@ class Solution {
         int n = coins.length;
         int m = amount;
         int[][] dp = new int[n+1][m+1];
-        int INF = amount+1;
         for(int i=0; i<n; i++)
             dp[i][0] = 1;
         for(int i=1; i<=n; i++)
