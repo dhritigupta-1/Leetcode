@@ -20,7 +20,7 @@ class Solution {
                     int y = node.getValue() + dy[j];
                     if(x>=0 && y>=0 && x<r && y<c && maze[x][y]=='.')
                     {
-                        if((x==0 || y==0 || x==r-1 || y==c-1) && !(x == entrance[0] && y== entrance[1]))
+                        if(x==0 || y==0 || x==r-1 || y==c-1) 
                             return count+1;
                         q.add(new Pair<>(x,y));
                         maze[x][y]='+';
