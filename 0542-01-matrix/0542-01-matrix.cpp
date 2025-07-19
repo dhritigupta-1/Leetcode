@@ -14,7 +14,7 @@ public:
                 {
                     q.push({i,j});
                 }
-                else if(mat[i][j] == 1)
+                else 
                 {
                     mat[i][j] = -1;
                 }
