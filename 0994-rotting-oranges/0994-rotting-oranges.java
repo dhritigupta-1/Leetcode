@@ -25,12 +25,10 @@ class Solution {
             for(int i=0; i<size; i++)
             {
                 Pair<Integer, Integer> node = q.poll();
-                int row = node.getKey();
-                int col = node.getValue();
                 for(int j=0; j<4; j++)
                 {
-                    int x = row + dx[j];
-                    int y = col + dy[j];
+                    int x = node.getKey() + dx[j];
+                    int y = node.getValue() + dy[j];
                     if(x>=0 && y>=0 && x<r && y<c && grid[x][y] == 1)
                     {
                         q.add(new Pair<>(x, y));
