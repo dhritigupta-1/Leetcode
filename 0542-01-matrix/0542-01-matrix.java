@@ -2,7 +2,6 @@ class Solution {
     public int[][] updateMatrix(int[][] mat) {
         int r = mat.length;
         int c = mat[0].length;
-        int one=0, zero=0, count=0;
         Queue<Pair<Integer,Integer>> q = new LinkedList<>();
         int[] dx = {0,0,1,-1};
         int[] dy = {1,-1,0,0};
