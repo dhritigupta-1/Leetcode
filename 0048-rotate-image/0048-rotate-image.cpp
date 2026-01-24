@@ -5,10 +5,10 @@ public:
         {
             for(int j=i+1; j<matrix.size(); j++)
             {
-                swap(matrix[i][j], matrix[j][i]);
+                swap(matrix[i][j], matrix[j][i]); // Transpose the matrix.
             }
         }
         for(int i=0; i<matrix.size(); i++)
-            reverse(matrix[i].begin(), matrix[i].end());
+            reverse(matrix[i].begin(), matrix[i].end()); // reverse the matrix.
     }
 };
