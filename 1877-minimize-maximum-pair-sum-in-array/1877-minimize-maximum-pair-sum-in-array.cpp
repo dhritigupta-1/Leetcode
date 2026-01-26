@@ -6,8 +6,7 @@ public:
         int left = 0;
         int count = 0;
         while(left < right){
-            int sum = nums[right] + nums[left];
-            count = max(sum, count);
+            count = max(count, nums[right] + nums[left]);
             right--;
             left++;
         }
