@@ -16,7 +16,7 @@ public:
         Node* curr = head;
         while(curr){
             if(curr->child){
-                Node* next = curr->next;
+                Node*next = curr->next;
                 curr->next = curr->child;
                 curr->child->prev = curr;
                 Node* tail = curr->child;
