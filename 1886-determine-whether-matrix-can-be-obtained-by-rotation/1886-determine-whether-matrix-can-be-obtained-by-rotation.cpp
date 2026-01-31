@@ -1,6 +1,7 @@
 class Solution {
 public:
-    bool Rotate(vector<vector<int>>& mat, int n, vector<vector<int>>& target){
+    bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
+        int n = 4;
         for(int k=0; k<n; k++){
             for(int i=0; i<mat.size(); i++){
                 for(int j=i+1; j<mat.size(); j++){
@@ -23,9 +24,5 @@ public:
             if(same) return true;
         }
         return false;
-    }
-    bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
-        int k = 4;
-        return Rotate(mat, k, target);
     }
 };
