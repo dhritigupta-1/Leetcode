@@ -6,8 +6,7 @@ public:
         vector<int> nsei(n), psei(n);
         for(int i=n-1; i>=0; i--){
             while(!s1.empty() && arr[s1.top()] >= arr[i]) s1.pop();
-            if(s1.empty()) nsei[i] = -1;
-            if(nsei[i] == -1) nsei[i] = arr.size();
+            if(s1.empty()) nsei[i] = arr.size();
             else nsei[i] = s1.top();
             s1.push(i);
         }
