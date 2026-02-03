@@ -10,11 +10,12 @@ public:
             else nsei[i] = s1.top();
             s1.push(i);
         }
+        while(!s1.empty()) s1.pop();
         for(int i=0; i<n; i++){
-            while(!s2.empty() && arr[s2.top()] >= arr[i]) s2.pop();
-            if(s2.empty()) psei[i] = -1;
-            else psei[i] = s2.top();
-            s2.push(i);
+            while(!s1.empty() && arr[s1.top()] >= arr[i]) s1.pop();
+            if(s1.empty()) psei[i] = -1;
+            else psei[i] = s1.top();
+            s1.push(i);
         }
         int maxarea = 0;
         for(int i=0; i<n; i++){
