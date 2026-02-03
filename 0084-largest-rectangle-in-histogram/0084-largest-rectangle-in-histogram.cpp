@@ -2,7 +2,7 @@ class Solution {
 public:
     int largestRectangleArea(vector<int>& arr) {
         int n = arr.size();
-        stack<int> s1, s2;
+        stack<int> s1;
         vector<int> nsei(n), psei(n);
         for(int i=n-1; i>=0; i--){
             while(!s1.empty() && arr[s1.top()] >= arr[i]) s1.pop();
@@ -18,10 +18,8 @@ public:
             s1.push(i);
         }
         int maxarea = 0;
-        for(int i=0; i<n; i++){
-            int l = arr[i];
-            int b = nsei[i] - psei[i] - 1;
-            int area = l * b;
+        for(int i=0; i<n; i++){;
+            int area = arr[i] * (nsei[i] - psei[i] - 1);
             maxarea = max(maxarea, area);
         }
         return maxarea;
