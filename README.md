@@ -10,4 +10,3 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 - ✅ Document each solution clearly with code and explanation.
 - ✅ Track consistency and progress over time.
 
-grep -c "^[0-9]\{4\}-" README.md
