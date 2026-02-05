@@ -11,10 +11,9 @@
  */
 class Solution {
 public:
-    int calc(TreeNode* root, int& m)
-    {
-        if(!root) return 0;
-        int left = calc(root->left, m),  right = calc(root->right, m);
+    int calc(TreeNode* root, int& m){
+        if(root == NULL) return 0;
+        int left = calc(root->left, m), right = calc(root->right, m);
         m = max(m, left+right);
         return 1 + max(left, right);
     }
@@ -24,4 +23,3 @@ public:
         return m;
     }
 };
-
