@@ -11,14 +11,11 @@
  */
 class Solution {
 public:
-    void helper(vector<int> sum, vector<vector<int>>& ans, TreeNode* root, int targetSum)
-    {
-        if(root == NULL)
-            return;
+    void helper(vector<int> sum, vector<vector<int>> &ans, TreeNode* root, int targetSum){
+        if(!root) return;
         sum.push_back(root->val);
         targetSum -= root->val;
-        if(root->left==NULL && root->right == NULL && targetSum == 0)
-        {
+        if(root->left == NULL && root->right == NULL && targetSum == 0){
             ans.push_back(sum);
             return;
         }
