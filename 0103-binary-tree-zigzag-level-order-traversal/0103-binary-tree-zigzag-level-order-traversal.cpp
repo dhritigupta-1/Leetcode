@@ -16,23 +16,18 @@ public:
         if(!root) return ans;
         queue<TreeNode*> q;
         q.push(root);
-        bool order = true;
-        while(!q.empty())
-        {
-            int levelsize = q.size();
+        bool order = false;
+        while(!q.empty()){
+            int level = q.size();
             vector<int> temp;
-            for(int i=0; i<levelsize; i++)
-            {
-                TreeNode*curr = q.front();
+            for(int i=0; i<level; i++){
+                TreeNode* curr = q.front();
                 q.pop();
                 temp.push_back(curr->val);
-                if(curr->left)
-                    q.push(curr->left); 
-                if(curr->right)
-                    q.push(curr->right);  
+                if(curr->left) q.push(curr->left);
+                if(curr->right) q.push(curr->right);
             }
-            if(!order)
-                reverse(temp.begin(), temp.end());
+            if(order) reverse(temp.begin(), temp.end());
             ans.push_back(temp);
             order = !order;
         }
