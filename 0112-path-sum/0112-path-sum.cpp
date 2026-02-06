@@ -11,22 +11,19 @@
  */
 class Solution {
 public:
-    void helper(int sum, bool& found, TreeNode* root, int targetSum)
-    {
-        if(root == NULL)
-            return;
+    void helper(TreeNode* root, int targetSum, int sum, bool& found){
+        if(!root) return;
         sum += root->val;
-        if(root->left == NULL && root->right == NULL && sum == targetSum)
-        {
+        if(root->left == NULL && root->right == NULL && sum == targetSum){
             found = true;
             return;
         }
-        helper(sum, found, root->left, targetSum);
-        helper(sum, found, root->right, targetSum);
+        helper(root->left, targetSum, sum, found); 
+        helper(root->right, targetSum, sum, found);
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
         bool found = false;
-        helper(0, found, root, targetSum);
+        helper(root, targetSum, 0, found);
         return found;
     }
 };
