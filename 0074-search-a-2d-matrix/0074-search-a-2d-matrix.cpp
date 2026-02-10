@@ -4,8 +4,8 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
         int low = 0;
-        int high = n*m - 1;
-        while(low <= high) {
+        int high = n*m -1;
+        while(low <= high){
             int mid = low + (high - low) / 2;
             int r = mid / m;
             int c = mid % m;
