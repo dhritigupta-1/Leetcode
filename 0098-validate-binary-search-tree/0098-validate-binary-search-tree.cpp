@@ -11,11 +11,9 @@
  */
 class Solution {
 public:
-    bool helper(TreeNode* root, long low, long high)
-    {
+    bool helper(TreeNode* root, long low, long high){
         if(!root) return true;
-        if(root->val <= low || root->val >= high)
-            return false;
+        if(root->val <= low || root->val >= high) return false;
         return helper(root->left, low, root->val) && helper(root->right, root->val, high);
     }
     bool isValidBST(TreeNode* root) {
