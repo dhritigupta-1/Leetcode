@@ -1,19 +1,17 @@
 class Solution {
 public:
-    void Func(vector<int>& nums, vector<int>temp, vector<vector<int>>& res, int start)
-    {
-        res.push_back(temp);
-        for(int i=start; i<nums.size(); i++)
-        {
+    void Func(vector<int>& nums, vector<vector<int>>& ans, vector<int> temp, int start){
+        ans.push_back(temp);
+        for(int i=start; i<nums.size(); i++){
             temp.push_back(nums[i]);
-            Func(nums, temp, res, i+1);
+            Func(nums, ans, temp, i+1);
             temp.pop_back();
         }
     }
     vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> ans;
         vector<int> temp;
-        vector<vector<int>> res;
-        Func(nums, temp, res, 0);
-        return res;
+        Func(nums, ans, temp, 0);
+        return ans;
     }
 };
