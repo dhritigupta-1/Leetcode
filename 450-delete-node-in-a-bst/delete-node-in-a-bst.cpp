@@ -12,9 +12,9 @@
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root == NULL) return NULL;
-        if(key < root->val) root->left = deleteNode(root->left, key);
-        else if(key > root->val) root->right = deleteNode(root->right, key);
+        if(!root) return root;
+        if(key <root->val) root->left = deleteNode(root->left, key);
+        else if(key >root->val) root->right = deleteNode(root->right, key);
         else{
             if(!root->left && !root->right) return NULL;
             if(root->left && !root->right) return root->left;
