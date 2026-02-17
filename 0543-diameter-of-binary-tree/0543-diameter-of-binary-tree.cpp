@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    int calc(TreeNode* root, int& m){
-        if(root == NULL) return 0;
-        int left = calc(root->left, m), right = calc(root->right, m);
+    int m = 0;
+    int helper(TreeNode* root){
+        if(!root) return 0;
+        int left = helper(root->left), right = helper(root->right);
         m = max(m, left+right);
-        return 1 + max(left, right);
+        return 1+max(left,right);
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        int m = 0;
-        calc(root, m);
+        helper(root);
         return m;
     }
 };
