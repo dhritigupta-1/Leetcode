@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    int Func(TreeNode* root, long long targetSum){
-        if(root == NULL) return 0;
+    int sum(TreeNode* root, long long targetSum){
+        if(!root) return 0;
         int count = 0;
         if(root->val == targetSum) count++;
-        count += Func(root->left, targetSum - root->val);
-        count += Func(root->right, targetSum - root->val);
+        count += sum(root->left, targetSum-root->val);
+        count += sum(root->right, targetSum-root->val);
         return count;
     }
     int pathSum(TreeNode* root, int targetSum) {
-        if(root == NULL) return 0;
-        return Func(root, targetSum) + pathSum(root->right, targetSum) + pathSum(root->left, targetSum);
+        if(!root) return 0;
+        return sum(root, targetSum) + pathSum(root->left, targetSum) + pathSum(root->right, targetSum);
     }
 };
