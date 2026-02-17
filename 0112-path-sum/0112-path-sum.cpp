@@ -11,18 +11,18 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root, int targetSum, int sum, bool& found){
+    void helper(TreeNode* root, int target, int sum, bool& found){
         if(!root) return;
         sum += root->val;
-        if(root->left == NULL && root->right == NULL && sum == targetSum){
+        if(root->left == NULL && root->right == NULL && sum == target){
             found = true;
             return;
         }
-        helper(root->left, targetSum, sum, found); 
-        helper(root->right, targetSum, sum, found);
+        helper(root->left, target, sum, found);
+        helper(root->right, target, sum, found);
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
-        bool found = false;
+        bool found = 0;
         helper(root, targetSum, 0, found);
         return found;
     }
