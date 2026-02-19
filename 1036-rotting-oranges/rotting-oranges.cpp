@@ -3,15 +3,15 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int r = grid.size();
         int c = grid[0].size();
+        vector<vector<int>> vis = grid;
         vector<int>dx = {0,0,1,-1};
         vector<int>dy = {1,-1,0,0};
         queue<pair<int, int>> q;
-        int min = 0, fresh = 0, rotten = 0;
+        int min = 0, fresh = 0;
         for(int i=0; i<r; i++){
             for(int j=0; j<c; j++){
-                if(grid[i][j] == 1) fresh++;
-                else if(grid[i][j] == 2){
-                    rotten++;
+                if(vis[i][j] == 1) fresh++;
+                else if(vis[i][j] == 2){
                     q.push({i,j});
                 }
             }
@@ -22,9 +22,9 @@ public:
                 pair<int, int> node = q.front(); q.pop();
                 for(int j=0; j<4; j++){
                     int x = node.first + dx[j];
-                    int y = node.second +dy[j];
-                    if(x>=0 && y>=0 && x<r && y<c && grid[x][y]==1){
-                        grid[x][y] = 2;
+                    int y = node.second + dy[j];
+                    if(x>=0 && y>=0 && x<r && y<c && vis[x][y]==1){
+                        vis[x][y] = 2;
                         fresh--;
                         q.push({x,y});
                     }
