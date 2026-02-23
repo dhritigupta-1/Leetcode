@@ -14,10 +14,11 @@ public:
         return false;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int sum = 0;
-        for(int i=0; i<weights.size(); i++) sum+=weights[i];
+        // int sum = 0;
+        // for(int i=0; i<weights.size(); i++) sum+=weights[i];
         int low = *max_element(weights.begin(), weights.end());
-        int high = sum;
+        //int high = sum;
+        int high = accumulate(weights.begin(), weights.end(), 0); // to sum an array
         int ans = 0;
         while(low <= high){
             int mid = low + (high - low) / 2;
