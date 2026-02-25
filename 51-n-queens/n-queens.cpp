@@ -26,8 +26,8 @@ public:
             if(isSafe(board, row, col, n)){
                 board[row][col] = 'Q';
                 solve(ans, board, n, row+1);
-                board[row][col] = '.';
             }
+            board[row][col] = '.';
         }
     }
     vector<vector<string>> solveNQueens(int n) {
