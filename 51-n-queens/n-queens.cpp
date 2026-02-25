@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isSafe(vector<string>& board, int row, int col, int n){
-        // check lcolumn
+        // check column
         for(int i=0; i<row; i++){
             if(board[i][col] == 'Q') return false;
         }
