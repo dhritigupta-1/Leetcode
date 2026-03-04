@@ -10,3 +10,23 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 - ✅ Document each solution clearly with code and explanation.
 - ✅ Track consistency and progress over time.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+<!---LeetCode Topics End-->
