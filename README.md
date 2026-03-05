@@ -20,13 +20,16 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/dhritigupta-1/Leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/dhritigupta-1/Leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/dhritigupta-1/Leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->
