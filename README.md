@@ -16,6 +16,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0337-house-robber-iii](https://github.com/dhritigupta-1/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Tree
@@ -36,4 +37,8 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0337-house-robber-iii](https://github.com/dhritigupta-1/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0687-longest-univalue-path](https://github.com/dhritigupta-1/Leetcode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 <!---LeetCode Topics End-->
