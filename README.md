@@ -44,6 +44,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0228-summary-ranges](https://github.com/dhritigupta-1/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,9 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
