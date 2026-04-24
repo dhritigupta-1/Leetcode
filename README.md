@@ -127,4 +127,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0184-department-highest-salary](https://github.com/dhritigupta-1/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/dhritigupta-1/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/dhritigupta-1/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/dhritigupta-1/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
