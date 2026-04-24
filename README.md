@@ -137,4 +137,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0596-classes-with-at-least-5-students](https://github.com/dhritigupta-1/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/dhritigupta-1/Leetcode/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0607-sales-person](https://github.com/dhritigupta-1/Leetcode/tree/main/0607-sales-person/) | Easy |
+| [0619-biggest-single-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 <!---LeetCode Topics End-->
