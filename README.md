@@ -133,4 +133,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0577-employee-bonus](https://github.com/dhritigupta-1/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/dhritigupta-1/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/dhritigupta-1/Leetcode/tree/main/0585-investments-in-2016/) | Medium |
+| [0595-big-countries](https://github.com/dhritigupta-1/Leetcode/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
