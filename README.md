@@ -135,4 +135,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0585-investments-in-2016](https://github.com/dhritigupta-1/Leetcode/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/dhritigupta-1/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/dhritigupta-1/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/dhritigupta-1/Leetcode/tree/main/0601-human-traffic-of-stadium/) | Hard |
 <!---LeetCode Topics End-->
