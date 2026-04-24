@@ -46,6 +46,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0228-summary-ranges](https://github.com/dhritigupta-1/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -110,4 +111,12 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
