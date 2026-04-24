@@ -128,4 +128,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0185-department-top-three-salaries](https://github.com/dhritigupta-1/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/dhritigupta-1/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/dhritigupta-1/Leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0262-trips-and-users](https://github.com/dhritigupta-1/Leetcode/tree/main/0262-trips-and-users/) | Hard |
 <!---LeetCode Topics End-->
