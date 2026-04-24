@@ -139,4 +139,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0607-sales-person](https://github.com/dhritigupta-1/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/dhritigupta-1/Leetcode/tree/main/0626-exchange-seats/) | Medium |
+| [1068-product-sales-analysis-i](https://github.com/dhritigupta-1/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
