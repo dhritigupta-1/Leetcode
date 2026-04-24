@@ -130,4 +130,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0197-rising-temperature](https://github.com/dhritigupta-1/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/dhritigupta-1/Leetcode/tree/main/0262-trips-and-users/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/dhritigupta-1/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0577-employee-bonus](https://github.com/dhritigupta-1/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
