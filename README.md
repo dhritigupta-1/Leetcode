@@ -17,6 +17,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0337-house-robber-iii](https://github.com/dhritigupta-1/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Tree
@@ -44,6 +45,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0228-summary-ranges](https://github.com/dhritigupta-1/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -53,6 +55,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -94,4 +97,17 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 <!---LeetCode Topics End-->
