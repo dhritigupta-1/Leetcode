@@ -124,4 +124,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/dhritigupta-1/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/dhritigupta-1/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/dhritigupta-1/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
