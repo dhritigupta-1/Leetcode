@@ -9,7 +9,7 @@ public:
                 if (token == "+") st.push(a + b);
                 else if (token == "-") st.push(a - b);
                 else if (token == "*") st.push(a * b);
-                else st.push(a / b);  // integer division
+                else st.push(a / b);  
             } else {
                 st.push(stoi(token));
             }
