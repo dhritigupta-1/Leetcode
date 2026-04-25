@@ -149,4 +149,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [1193-monthly-transactions-i](https://github.com/dhritigupta-1/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/dhritigupta-1/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/dhritigupta-1/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+| [1280-students-and-examinations](https://github.com/dhritigupta-1/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->
