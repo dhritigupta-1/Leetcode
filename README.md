@@ -147,4 +147,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [1174-immediate-food-delivery-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/dhritigupta-1/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/dhritigupta-1/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/dhritigupta-1/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 <!---LeetCode Topics End-->
