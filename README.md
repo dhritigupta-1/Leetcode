@@ -144,4 +144,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [1148-article-views-i](https://github.com/dhritigupta-1/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/dhritigupta-1/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/dhritigupta-1/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1174-immediate-food-delivery-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 <!---LeetCode Topics End-->
