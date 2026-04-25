@@ -150,4 +150,5 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [1211-queries-quality-and-percentage](https://github.com/dhritigupta-1/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/dhritigupta-1/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/dhritigupta-1/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
+| [1321-restaurant-growth](https://github.com/dhritigupta-1/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 <!---LeetCode Topics End-->
