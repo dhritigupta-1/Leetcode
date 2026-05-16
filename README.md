@@ -43,6 +43,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
@@ -66,6 +67,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhritigupta-1/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
