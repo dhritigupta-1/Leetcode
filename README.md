@@ -50,6 +50,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0228-summary-ranges](https://github.com/dhritigupta-1/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/dhritigupta-1/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/dhritigupta-1/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dhritigupta-1/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -88,6 +89,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/dhritigupta-1/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
