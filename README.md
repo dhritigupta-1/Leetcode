@@ -55,6 +55,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0495-teemo-attacking](https://github.com/dhritigupta-1/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1314-matrix-block-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/dhritigupta-1/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dhritigupta-1/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1314-matrix-block-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
