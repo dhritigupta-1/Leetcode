@@ -56,6 +56,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0495-teemo-attacking](https://github.com/dhritigupta-1/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [1314-matrix-block-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0304-range-sum-query-2d-immutable](https://github.com/dhritigupta-1/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dhritigupta-1/Leetcode/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [1314-matrix-block-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
