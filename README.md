@@ -19,6 +19,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0337-house-robber-iii](https://github.com/dhritigupta-1/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
+| [0392-is-subsequence](https://github.com/dhritigupta-1/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/dhritigupta-1/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0283-move-zeroes](https://github.com/dhritigupta-1/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhritigupta-1/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/dhritigupta-1/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/dhritigupta-1/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
@@ -118,6 +120,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhritigupta-1/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/dhritigupta-1/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/dhritigupta-1/Leetcode/tree/main/0443-string-compression/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
