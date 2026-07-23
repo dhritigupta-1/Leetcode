@@ -67,6 +67,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -74,6 +75,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0165-compare-version-numbers](https://github.com/dhritigupta-1/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/dhritigupta-1/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhritigupta-1/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -140,6 +142,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
