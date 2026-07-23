@@ -44,6 +44,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -70,6 +71,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
