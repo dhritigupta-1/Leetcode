@@ -49,6 +49,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/dhritigupta-1/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/dhritigupta-1/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -71,6 +72,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -99,6 +101,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -121,6 +124,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhritigupta-1/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,4 +220,8 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
