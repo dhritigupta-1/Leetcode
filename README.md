@@ -60,6 +60,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0495-teemo-attacking](https://github.com/dhritigupta-1/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1314-matrix-block-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/dhritigupta-1/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -206,4 +207,8 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/dhritigupta-1/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
