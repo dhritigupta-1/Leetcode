@@ -6,7 +6,7 @@ public:
         vector<int> ans;
         for(auto i : map) ans.push_back(i.second);
         for(int i=0; i<ans.size(); i++){
-            for(int j=i+1; j<ans.size(); j++) {
+            for(int j=i+1; j<ans.size(); j++){
                 if(ans[i] == ans[j]) return false;
             }
         }
