@@ -61,6 +61,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/dhritigupta-1/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1314-matrix-block-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/1314-matrix-block-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/dhritigupta-1/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -73,6 +74,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/dhritigupta-1/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
