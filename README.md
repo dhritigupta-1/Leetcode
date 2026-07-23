@@ -49,6 +49,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/dhritigupta-1/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/dhritigupta-1/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/dhritigupta-1/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -71,6 +72,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -97,6 +99,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
