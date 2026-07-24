@@ -74,6 +74,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0001-two-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0141-linked-list-cycle](https://github.com/dhritigupta-1/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -85,6 +86,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dhritigupta-1/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0165-compare-version-numbers](https://github.com/dhritigupta-1/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/dhritigupta-1/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -121,6 +123,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhritigupta-1/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0141-linked-list-cycle](https://github.com/dhritigupta-1/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
