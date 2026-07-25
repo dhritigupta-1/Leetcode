@@ -46,6 +46,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhritigupta-1/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0140-word-break-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0140-word-break-ii/) | Hard |
@@ -87,6 +88,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dhritigupta-1/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0165-compare-version-numbers](https://github.com/dhritigupta-1/Leetcode/tree/main/0165-compare-version-numbers/) | Medium |
@@ -106,6 +108,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/dhritigupta-1/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
