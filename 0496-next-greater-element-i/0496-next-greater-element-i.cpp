@@ -4,11 +4,10 @@ public:
         int n1 = nums1.size(), n2 = nums2.size();
         vector<int> ans(n2, -1);
         stack<int> s;
-        for(int i=0; i<n2; i++){
-            while(!s.empty() && nums2[s.top()] < nums2[i]){
-                ans[s.top()] = nums2[i];
-                s.pop(); 
-            }
+        for(int i=n2-1; i>=0; i--){
+            while(!s.empty() && nums2[i] >= nums2[s.top()]) s.pop();
+            if(s.empty()) ans[i] = -1;
+            else ans[i] = nums2[s.top()];
             s.push(i);
         }
         vector<int> res(n1, -1);
@@ -18,6 +17,7 @@ public:
                     res[i] = ans[j];
                     break;
                 }
+                    
             }
         }
         return res;
