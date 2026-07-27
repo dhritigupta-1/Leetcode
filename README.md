@@ -62,6 +62,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0414-third-maximum-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0495-teemo-attacking](https://github.com/dhritigupta-1/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -81,6 +82,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0202-happy-number](https://github.com/dhritigupta-1/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhritigupta-1/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0496-next-greater-element-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/dhritigupta-1/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/dhritigupta-1/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/dhritigupta-1/Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -171,6 +173,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhritigupta-1/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0496-next-greater-element-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,4 +238,8 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/dhritigupta-1/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
