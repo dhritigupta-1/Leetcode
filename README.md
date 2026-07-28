@@ -232,6 +232,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/dhritigupta-1/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/dhritigupta-1/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,4 +246,12 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/dhritigupta-1/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/dhritigupta-1/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/dhritigupta-1/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/dhritigupta-1/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
