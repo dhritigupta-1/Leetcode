@@ -123,6 +123,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/dhritigupta-1/Leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/dhritigupta-1/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0649-dota2-senate](https://github.com/dhritigupta-1/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 | [0345-reverse-vowels-of-a-string](https://github.com/dhritigupta-1/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/dhritigupta-1/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/dhritigupta-1/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0649-dota2-senate](https://github.com/dhritigupta-1/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ This repo contains my solutions to problems from [LeetCode](https://leetcode.com
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/dhritigupta-1/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/dhritigupta-1/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
